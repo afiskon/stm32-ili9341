@@ -7,8 +7,11 @@ This library is based on [afiskon/stm32-st7735][u1] and
 from [martnak/STM32-ILI9341][u3].
 
 See also:
-* https://github.com/afiskon/stm32-ssd1351
+
 * https://github.com/afiskon/stm32-i2c-lcd-1602
+* https://github.com/afiskon/stm32-ssd1306
+* https://github.com/afiskon/stm32-ssd1351
+* https://github.com/afiskon/stm32-st7735
 
 [u1]: https://github.com/afiskon/stm32-st7735
 [u2]: https://github.com/afiskon/stm32-ssd1306
